@@ -3,4 +3,4 @@ test
 test
 test
 
-test from copy
+ALL from host now.
