@@ -2,3 +2,5 @@ host 1
 test
 test
 test
+
+ALL from host now.
